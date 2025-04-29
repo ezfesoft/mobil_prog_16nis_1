@@ -29,7 +29,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   //--------------------------
   //--------------------------
-  //DEÐÝÞKEN BU ALANA YAZILACAK
+  //DEï¿½ï¿½ï¿½KEN BU ALANA YAZILACAK
   //--------------------------
   //--------------------------
   //--------------------------
@@ -53,6 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
             //------------------------
             //------------------------
             //------------------------
+            Container()
             //------------------------
             //------------------------
             //------------------------
